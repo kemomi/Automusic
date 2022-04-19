@@ -1,4 +1,4 @@
-<h1 align="center">qinglong-sign</h1>
+<h1 align="center">网易云音乐合伙人自动评分</h1>
 
 <div align="center">
     基于青龙面板的脚本库
@@ -62,13 +62,3 @@ cp /ql/repo/KotoriMinami_qinglong-sign/sg_config.json /ql/config/sg_check.json
 
 > ***您使用或者复制了本仓库且本人制作的任何脚本，则视为 `已接受` 此声明，请仔细阅读***
 
-
-#### Tip: 刚学习玩这个, 大佬轻喷,后期可能不定期增加其它脚本
-
-## 致谢
-
-[@Sitoi](https://github.com/Sitoi)
-
-[@yuxian158](https://github.com/yuxian158/)
-
-[@weixin_44530979](https://blog.csdn.net/weixin_44530979)
